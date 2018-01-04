@@ -12,8 +12,8 @@ church’s tenets from all challenges.
 
 ### Hit Points
 
-**Hit Dice:** 1d8 per warpriest level
-**Hit Points at 1st Level:** 8 + your Constitution modifier
+**Hit Dice:** 1d8 per warpriest level  
+**Hit Points at 1st Level:** 8 + your Constitution modifier  
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per warpriest level after 
 1st
 
