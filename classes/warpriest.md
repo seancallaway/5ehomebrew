@@ -64,8 +64,8 @@ higher. To cast one of these Spells, you must expend a slot of the spell's level
 regain all expended Spell Slots when you finish a Long Rest.
 
 You prepare the list of warpriestSpells that are available for you to cast, choosing from the 
-cleric spell list. When you do so, choose a number of cleric Spells equal to your Wisdom modifier 
-+ your warpriest level (minimum of one spell). The Spells must be of a level for which you have 
+cleric spell list. When you do so, choose a number of cleric Spells equal to your Wisdom modifier + 
+your warpriest level (minimum of one spell). The Spells must be of a level for which you have 
 Spell Slots.
 
 You can change your list of prepared Spells when you finish a Long Rest. Preparing a new list of 
